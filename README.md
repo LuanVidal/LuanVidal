@@ -34,7 +34,6 @@ I am a **System Analyst** specializing in **Industrial Computer Vision** with a 
   Developed web and mobile applications, leading projects and working in a team-oriented environment.
 
 ### 📫 How to reach me
-- **Email:** [luangabrielvidal0000000@gmail.com](mailto:luangabrielvidal0000000@gmail.com)
 - **LinkedIn:** [Luan Gabriel Vidal](https://www.linkedin.com/in/luan-gabriel-vidal-8b8922220)
 
 ### 📚 Publications
